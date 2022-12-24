@@ -3,9 +3,10 @@ layout: post
 title: "هل عيسى حي أو ميت ؟"
 publisher: ""
 source: "فتاوى اللجنة الدائمة 3 / 305 - 306"
-lang: ar
-hijri: Safar 8, 1442 AH
 excerpt: " "
+locale: ar
+uid : is-jesus-alive-or-dead
+hijri: Safar 8, 1442 AH
 ---
 
 السؤال : 
