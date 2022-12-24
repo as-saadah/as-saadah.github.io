@@ -5,15 +5,6 @@ url:            "https://as-saadah.github.io"
 markdown: kramdown
 permalink: pretty
 
-plugins: 
-  - jekyll-paginate-v2
-  
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: /page/:num/
-  sort_reverse: true
-
 defaults:
   # default en
   - values:
