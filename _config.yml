@@ -4,6 +4,7 @@ baseurl:        "/"
 url:            "https://as-saadah.github.io"
 markdown: kramdown
 permalink: pretty
+paginate: 20
 
 defaults:
   # default en
