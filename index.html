@@ -3,6 +3,7 @@ layout: main
 locale: en
 ---
 
+{% assign posts=site.posts | where:"locale", page.locale %}
 {% for post in paginator.posts %}
  <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 {% endfor %}
