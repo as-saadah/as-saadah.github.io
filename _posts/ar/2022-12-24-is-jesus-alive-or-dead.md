@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Jesus alive or dead ?"
+title: "هل عيسى حي أو ميت ؟"
 publisher: ""
 source: "فتاوى اللجنة الدائمة 3 / 305 - 306"
 lang: en
