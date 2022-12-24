@@ -3,9 +3,10 @@ layout: post
 title: "Is Jesus alive or dead ?"
 publisher: ""
 source: "Fatawa Al-Lajnah Al-Daimah 3/305-306 Fatwa no."
-lang: en
-hijri: Safar 8, 1442 AH
 excerpt: " "
+locale: en
+uid : is-jesus-alive-or-dead
+hijri: Safar 8, 1442 AH
 ---
 
 Question: 
