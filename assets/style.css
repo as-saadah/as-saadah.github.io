@@ -1,0 +1,32 @@
+.border {
+ border-radius: 30px! important;
+}
+.logo {
+ width: 48px;
+}
+.nav-logo {
+ margin-bottom: 30px;
+}
+.container {
+ margin-top: 130px;
+ margin-bottom: 70px;
+}
+a.navbar-brand {
+ margin-left: 0px! important;
+ margin-right: 0px! important;
+ width: 48px! important;
+ height: 48px! important;
+}
+.nav-item {
+ padding-left: 15px! important;
+}
+.input-group-text {
+ padding-left: 0px! important;
+ margin: 0px! important;
+ padding: 0px! important;
+}
+@media only screen and (max-width: 320px) {
+  a.navbar-brand {
+   display: none;
+  }
+}
