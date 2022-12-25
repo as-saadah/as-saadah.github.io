@@ -24,3 +24,11 @@ defaults:
       layout: post
       locale: ar
       permalink: /ar/:title
+
+collections:
+  ar:
+    output: true
+    permalink: /ar/
+  en:
+    output: true
+    permalink: /en/
