@@ -7,3 +7,15 @@ locale: en
 {% for post in paginator.posts %}
  <a title="{{ post.title }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 {% endfor %}
+
+<ul>
+{% for block in site.data.games.game %}
+<li>
+<div>
+<a href="https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=id&cur=IDR&jurisdiction=99&gameSymbol={{ block.symbol }}">
+ <img src="{{ block.img | prepend: site.baseurl }}"/>
+ </a>
+</div>
+</li>
+{% endfor %}
+</ul>
